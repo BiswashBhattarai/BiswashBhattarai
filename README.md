@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Biswash 👋
 
-<!--
-**BiswashBhattarai/BiswashBhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS junior @ University of Iowa — incoming Software Engineering Co-op @ Collins Aerospace (Jan 2027).
 
-Here are some ideas to get you started:
+- 🔭 Building full-stack apps with Next.js, Express, Prisma/Postgres
+- 🧠 Co-founder/VP of ML @ UIowa ML Club · Programs Director @ NSBE Iowa City
+- 📫 Reach me: biswash-bhattarai@uiowa.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- [apartment-review](https://github.com/BiswashBhattarai/apartment-review) — full-stack apartment review platform for Iowa City students (Next.js, Express, Prisma, PostgreSQL, JWT auth)
+- [housing-affordability-map](https://github.com/BiswashBhattarai/housing-affordability-map) — maps Iowa City rental affordability against user income (React/Vite, Express API)
+- [ethereum-paper-trading-bot-supertrend](https://github.com/BiswashBhattarai/ethereum-paper-trading-bot-supertrend) — paper-trading bot for ETH using a SuperTrend strategy (Python, Kraken API/ccxt)
